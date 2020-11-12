@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name's Alan Diego Biz i'm full stack developer student and my passion is to learn!
+
 ![Alan Biz's github stats](https://github-readme-stats.vercel.app/api?username=alandiegobiz&show_icons=true&theme=radical)
 
 <details>
