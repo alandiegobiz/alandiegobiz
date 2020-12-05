@@ -7,10 +7,8 @@
 ![Alan Biz's github stats](https://github-readme-stats.vercel.app/api?username=alandiegobiz&show_icons=true&theme=radical)
 
 <details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> <summary>
-    <br>
-</details>
-**Hard skills:**
+  <summary> <b> Um pouco mais sobre mim!</b> <i>(click to expand!)</i> 
+    **Hard skills:**
 </br><img src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg" alt="HTML5" title="HTML5" width="20" height="20"/> 
 <img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="CSS" title="CSS" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="JS" title="JavaScript" width="20" height="20"/>
@@ -22,6 +20,10 @@
 <img src="https://a.trellocdn.com/prgb/dist/images/ios/apple-touch-icon-precomposed.8de2074e8a785dd5d498.png" alt="Trello" title="Trello" width="20" height="20"/>
 <img src="https://static.figma.com/app/icon/1/favicon.png" alt="Figma" title="Figma" width="20" height="20"/>
 ...
+    <summary>
+    <br>
+</details>
+
 
 
 <!--
