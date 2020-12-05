@@ -10,10 +10,6 @@
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> <summary>
     <br>
 </details>
-
-<!--
-**alandiegobiz/alandiegobiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 **Hard skills:**
 </br><img src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg" alt="HTML5" title="HTML5" width="20" height="20"/> 
 <img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="CSS" title="CSS" width="20" height="20"/>
@@ -26,3 +22,8 @@
 <img src="https://a.trellocdn.com/prgb/dist/images/ios/apple-touch-icon-precomposed.8de2074e8a785dd5d498.png" alt="Trello" title="Trello" width="20" height="20"/>
 <img src="https://static.figma.com/app/icon/1/favicon.png" alt="Figma" title="Figma" width="20" height="20"/>
 ...
+
+
+<!--
+**alandiegobiz/alandiegobiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
